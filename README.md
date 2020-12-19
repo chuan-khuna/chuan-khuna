@@ -7,6 +7,10 @@
 [![Top Langs](https://github-readme-stats-chuan-khuna.vercel.app/api/top-langs/?username=chuan-khuna&langs_count=8&layout=compact&theme=algolia&card_width=445&hide=html,css,javascript)](https://github-readme-stats-chuan-khuna.vercel.app/api/top-langs/?username=chuan-khuna&langs_count=8&layout=compact&theme=algolia&card_width=445&hide=html,css,javascript)
 
 
+#### 🌱 I’m currently learning
+- visualization
+- stats
+
 <!--
 **chuan-khuna/chuan-khuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
