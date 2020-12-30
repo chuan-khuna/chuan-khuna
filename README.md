@@ -10,6 +10,7 @@
 #### 🌱 I’m currently learning
 - visualization
 - stats
+- EDA
 
 <!--
 **chuan-khuna/chuan-khuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
