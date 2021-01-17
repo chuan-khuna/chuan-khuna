@@ -1,16 +1,16 @@
 ### Hi, My name is Phattharanat 👋
 
-#### Blog: https://chuan-khuna.netlify.app
+I am looking for a position in the data science filed.
 
+I implemented some simple machine learning models in Data Mining course.
+
+I am leaning more about machine learning and deep learning. 
+
+#### Blog: https://chuan-khuna.netlify.app
 
 [![github stats](https://github-readme-stats-chuan-khuna.vercel.app/api?username=chuan-khuna&theme=algolia&count_private=true)](https://github-readme-stats-chuan-khuna.vercel.app/api?username=chuan-khuna&theme=algolia&count_private=true)
 [![Top Langs](https://github-readme-stats-chuan-khuna.vercel.app/api/top-langs/?username=chuan-khuna&langs_count=8&layout=compact&theme=algolia&card_width=445&hide=html,css,javascript)](https://github-readme-stats-chuan-khuna.vercel.app/api/top-langs/?username=chuan-khuna&langs_count=8&layout=compact&theme=algolia&card_width=445&hide=html,css,javascript)
 
-
-#### 🌱 I’m currently learning
-- visualization
-- stats
-- EDA
 
 <!--
 **chuan-khuna/chuan-khuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
