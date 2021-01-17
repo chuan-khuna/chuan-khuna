@@ -6,6 +6,8 @@ I implemented some simple machine learning models in Data Mining course.
 
 I am learning more about machine learning and deep learning. 
 
+> Go beyond ... Plus Ultra!
+
 #### Blog: https://chuan-khuna.netlify.app
 
 [![github stats](https://github-readme-stats-chuan-khuna.vercel.app/api?username=chuan-khuna&theme=algolia&count_private=true)](https://github-readme-stats-chuan-khuna.vercel.app/api?username=chuan-khuna&theme=algolia&count_private=true)
