@@ -4,7 +4,7 @@ I am looking for a position in the data science field.
 
 I implemented some simple machine learning models in Data Mining course.
 
-I am leaning more about machine learning and deep learning. 
+I am learning more about machine learning and deep learning. 
 
 #### Blog: https://chuan-khuna.netlify.app
 
