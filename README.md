@@ -1,6 +1,6 @@
 ### Hi, My name is Phattharanat 👋
 
-I am looking for a position in the data science filed.
+I am looking for a position in the data science field.
 
 I implemented some simple machine learning models in Data Mining course.
 
