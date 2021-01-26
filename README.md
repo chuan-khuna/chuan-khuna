@@ -17,6 +17,7 @@ I am learning more about machine learning and deep learning.
 
 - Neural Style Transfer
 - NLP
+- GAN
 
 <!--
 **chuan-khuna/chuan-khuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
