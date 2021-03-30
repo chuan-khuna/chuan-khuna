@@ -8,7 +8,7 @@ I am learning more about machine learning and deep learning.
 
 > Go beyond ... Plus Ultra!
 
-#### Blog: https://chuan-khuna.netlify.app
+#### Digital Garden: https://chuan-khuna.netlify.app
 
 #### [Tensorflow Certificate](https://www.credential.net/425e55ab-ed24-446a-a8bc-2c5b80622af2#gs.uidr12)
 
