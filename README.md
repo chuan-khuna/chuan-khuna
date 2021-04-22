@@ -7,7 +7,7 @@
 
 #### 🍵/About Me 
 
-I am ~~looking for~~(Now burnout) a position in the data science field.
+I am ~~looking for~~(now: burnout) a position in the data science field.
 
 I implemented some simple machine learning models in Data Mining course.
 
@@ -27,6 +27,7 @@ I am learning more about machine learning and deep learning.
 
 - **The profile image?**: NOT ME, she is Noguchi Iori.
 - **stRE:ashesING?**: the meaning is "ashes string re-arrange version".
+- **need help?**: If you have some basic problem in data science. I wish I can help you. So I can practice my English skill too.
 
 
 #### Links
