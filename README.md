@@ -23,6 +23,12 @@ I am learning more about machine learning and deep learning.
 - NLP
 - GAN
 
+#### 💬 Ask me about ...
+
+- **The profile image?**: NOT ME, she is Noguchi Iori.
+- **stRE:ashesING?**: the meaning is "ashes string re-arrange version".
+
+
 #### Links
 - Digital Garden: https://chuan-khuna.netlify.app
 - [Tensorflow Certificate](https://www.credential.net/425e55ab-ed24-446a-a8bc-2c5b80622af2#gs.uidr12)
@@ -31,6 +37,7 @@ I am learning more about machine learning and deep learning.
 
 [![github stats](https://github-readme-stats-chuan-khuna.vercel.app/api?username=chuan-khuna&theme=algolia&count_private=true)](https://github-readme-stats-chuan-khuna.vercel.app/api?username=chuan-khuna&theme=algolia&count_private=true)
 [![Top Langs](https://github-readme-stats-chuan-khuna.vercel.app/api/top-langs/?username=chuan-khuna&langs_count=8&layout=compact&theme=algolia&card_width=445&hide=html,css,javascript)](https://github-readme-stats-chuan-khuna.vercel.app/api/top-langs/?username=chuan-khuna&langs_count=8&layout=compact&theme=algolia&card_width=445&hide=html,css,javascript)
+
 
 <!--
 **chuan-khuna/chuan-khuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
