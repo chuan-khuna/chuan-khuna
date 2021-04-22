@@ -7,7 +7,7 @@
 
 #### 🍵/About Me 
 
-I am looking for a position in the data science field.
+I am ~~looking for~~(Now burnout) a position in the data science field.
 
 I implemented some simple machine learning models in Data Mining course.
 
