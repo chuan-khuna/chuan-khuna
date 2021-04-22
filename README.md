@@ -1,4 +1,4 @@
-### Hi, My name is Phattharanat 👋
+## Hi, My name is Phattharanat 👋
 
 #### ⌛/Now
 
