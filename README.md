@@ -2,12 +2,12 @@
 
 #### ⌛/Now
 
-- burnout because of I think there is no reward and feed back for my learning.
+- 🔥burnout because of I think there is no reward and feed back for my learning progress.
 - learning about characteristics of English accents especially UK accents such as modern RP, Posh and Cockney.  
 
 #### 🍵/About Me 
 
-I am ~~looking for~~(now: burnout) a position in the data science field.
+I am ~~looking for~~(now: 🔥burnout ) a position in the data science field.
 
 I implemented some simple machine learning models in Data Mining course.
 
