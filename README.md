@@ -16,13 +16,6 @@ I am learning more about machine learning and deep learning.
 > Go beyond ... Plus Ultra!
 
 
-#### 🌱 I’m currently learning/Interested field ...
-
-- Learning English for TOELF ITP examination
-- Neural Style Transfer
-- NLP
-- GAN
-
 #### 💬 Ask me about ...
 
 - **The profile image?**: NOT ME, she is Noguchi Iori.
@@ -41,6 +34,15 @@ I am learning more about machine learning and deep learning.
 
 
 <!--
+
+#### 🌱 I’m currently learning/Interested field ...
+
+- Learning English for TOELF ITP examination
+- Neural Style Transfer
+- NLP
+- GAN
+
+
 **chuan-khuna/chuan-khuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
