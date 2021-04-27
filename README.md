@@ -2,7 +2,7 @@
 
 #### ⌛/Now
 
-- 🔥burnout because of I think there is no reward and feed back for my learning progress.
+- 🔥burnout because of I think there is no reward and feedback for my learning progress.
 - learning about characteristics of English accents especially UK accents such as modern RP, Posh and Cockney.  
 
 #### 🍵/About Me 
