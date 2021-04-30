@@ -25,6 +25,7 @@ I am learning more about machine learning and deep learning.
 
 #### Links
 - Digital Garden: https://chuan-khuna.netlify.app
+- Digital Garden(notion): https://www.notion.so/chuankhunagarden/Home-98e4910543f9431f90e1b2b4b227aa58
 - [Tensorflow Certificate](https://www.credential.net/425e55ab-ed24-446a-a8bc-2c5b80622af2#gs.uidr12)
 
 #### Stats
