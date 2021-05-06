@@ -11,7 +11,9 @@ I am ~~looking for~~(now: 🔥burnout ) a position in the data science field.
 
 I implemented some simple machine learning models in Data Mining course.
 
-I am learning more about machine learning and deep learning. 
+I am learning more about machine learning and deep learning.
+
+I am healed a little bit, still have burnout, but I think I have a plan - I wish to work in UK.
 
 > Go beyond ... Plus Ultra!
 
