@@ -15,6 +15,10 @@ I am learning more about machine learning and deep learning.
 
 I am healed a little bit, still have burnout, but I think I have a plan - I wish to work in UK.
 
+see more details(news "ย้ายประเทศกันเถอะ" about facebook group that trending in thailand):
+- [bloomberg](https://www.bloomberg.com/news/articles/2021-05-06/-get-out-of-thailand-campaign-gains-momentum-as-covid-worsens)
+- [thestandard](https://thestandard.co/lets-move-abroad-thai-facebook-group/)
+
 > Go beyond ... Plus Ultra!
 
 
