@@ -4,6 +4,7 @@
 
 - 🔥burnout because of I think there is no reward and feedback for my learning progress.
 - learning about characteristics of English accents especially UK accents such as modern RP, Posh and Cockney.  
+- Certificate Examination plan: [Google - Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
 
 #### 🍵/About Me 
 
@@ -15,10 +16,6 @@ I am learning more about machine learning and deep learning.
 
 I am healed a little bit, still have burnout, but I think I have a plan - I wish to work in UK.
 
-see more details(news "ย้ายประเทศกันเถอะ" about facebook group that trending in thailand):
-- [bloomberg](https://www.bloomberg.com/news/articles/2021-05-06/-get-out-of-thailand-campaign-gains-momentum-as-covid-worsens)
-- [thestandard](https://thestandard.co/lets-move-abroad-thai-facebook-group/)
-
 > Go beyond ... Plus Ultra!
 
 
@@ -27,6 +24,11 @@ see more details(news "ย้ายประเทศกันเถอะ" abou
 - **The profile image?**: NOT ME, she is Noguchi Iori.
 - **stRE:ashesING?**: the meaning is "ashes string re-arrange version".
 - **need help?**: If you have some basic problem in data science. I wish I can help you. So I can practice my English skill too.
+- **Why I want to work in UK?**: 
+  - see more details(news "ย้ายประเทศกันเถอะ" about facebook group that trending in thailand):
+    - [bloomberg](https://www.bloomberg.com/news/articles/2021-05-06/-get-out-of-thailand-campaign-gains-momentum-as-covid-worsens)
+    - [thestandard](https://thestandard.co/lets-move-abroad-thai-facebook-group/)
+
 
 
 #### Links
