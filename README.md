@@ -46,7 +46,7 @@ I am healed a little bit, still have burnout, but I think I have a plan - I wish
 
 #### 🌱 I’m currently learning/Interested field ...
 
-- Learning English for TOELF ITP examination
+- Learning English for TOELF ITP/IELTS examination
 - Neural Style Transfer
 - NLP
 - GAN
