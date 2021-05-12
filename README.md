@@ -1,18 +1,24 @@
 ## Hi, My name is Phattharanat 👋
 
-#### ⌛/Now
-
-- Learning about characteristics of English accents especially UK accents such as modern RP, Posh and Cockney.  
-- Certificate Examination plan: [Google - Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
-
 #### 🍵/About Me 
 
 Implemented simple machine learning model in a Data Mining course, experienced in climate science from senior project, learnt about Deep Learning from online courses. NO WORKING experience but try hard to learn to broaden my knowledge. Self-learner, pucntual.
+
+#### ⌛/Now
+
+- Learning about characteristics of English accents especially UK accents such as modern RP, Posh and Cockney.  
+- plan to do certificate examination: [Google - Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
+- plan to do IELTS examination
 
 I am healed a little bit, still have burnout, but I think I have a plan - I wish to work in UK.
 
 > Go beyond ... Plus Ultra!
 
+#### 🧀/Interests
+
+- Visualisation
+- Climate Science
+- Epidemiology
 
 #### 💬 Ask me about ...
 
