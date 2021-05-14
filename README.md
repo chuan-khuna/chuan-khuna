@@ -19,6 +19,7 @@ I am healed a little bit, still have burnout, but I think I have a plan - I wish
 - Visualisation
 - Climate Science
 - Epidemiology
+- Digital Garden/Evergreen Note
 
 #### 💬 Ask me about ...
 
