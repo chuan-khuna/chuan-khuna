@@ -2,7 +2,7 @@
 
 #### 🍵/About Me 
 
-Implemented simple machine learning model in a Data Mining course, experienced in climate science from senior project, learnt about Deep Learning from online courses. NO WORKING experience but try hard to learn to broaden my knowledge. Self-learner, pucntual.
+Implemented simple machine learning model in a Data Mining course, experienced in climate science from senior project, learnt about Deep Learning from online courses. NO WORKING experience but try hard to learn to broaden my knowledge. Self-learner, punctual, studious.
 
 #### ⌛/Now
 
