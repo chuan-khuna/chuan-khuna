@@ -1,16 +1,24 @@
 ## Hi, My name is Phattharanat 👋
 
+> "I am just another desultory learner."
+
 #### 🍵/About Me 
 
-Implemented simple machine learning model in a Data Mining course, experienced in climate science from senior project, learnt about Deep Learning from online courses. NO WORKING experience but try hard to learn to broaden my knowledge. Self-learner, punctual, studious.
+Implemented simple machine learning model in a Data Mining course, experienced in climate science from senior project, learnt about Deep Learning from online courses. 
+
+NO WORKING experience but try hard to learn to broaden my knowledge. 
+
+Self-learner, punctual, studious.
+
+currenly have got burnout or depressed (something like that), due to there is no reward for my learning (in Thailand situation).
 
 #### ⌛/Now
 
 - Learning about characteristics of English accents especially UK accents such as modern RP, Posh and Cockney.  
 - plan to do certificate examination: [Google - Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
-- plan to do IELTS examination
+- plan to do IELTS examination (goal: band 6.0+ in academic)
 
-I am healed a little bit, still have burnout, but I think I have a plan - I wish to work in UK.
+I am healed a little bit but still have burnout, and I think I have a plan — I want to work or study in UK.
 
 > Go beyond ... Plus Ultra!
 
@@ -31,9 +39,8 @@ I am healed a little bit, still have burnout, but I think I have a plan - I wish
     - [bloomberg](https://www.bloomberg.com/news/articles/2021-05-06/-get-out-of-thailand-campaign-gains-momentum-as-covid-worsens)
     - [thestandard](https://thestandard.co/lets-move-abroad-thai-facebook-group/)
 
-
-
 #### Links
+- links: https://phattharanat.carrd.co/
 - Digital Garden: https://chuan-khuna.netlify.app
 - Digital Garden(notion): https://www.notion.so/chuankhunagarden/Home-98e4910543f9431f90e1b2b4b227aa58
 - [Tensorflow Certificate](https://www.credential.net/425e55ab-ed24-446a-a8bc-2c5b80622af2#gs.uidr12)
