@@ -10,7 +10,7 @@ NO WORKING experience but try hard to learn to broaden my knowledge.
 
 Self-learner, punctual, studious.
 
-currenly have got burnout or depressed (something like that), due to there is no reward for my learning (in Thailand situation).
+currenly have got burnout or depressed (something like that), because of there is no reward for my learning (in Thailand situation).
 
 #### ⌛/Now
 
