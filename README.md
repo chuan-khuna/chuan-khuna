@@ -32,9 +32,9 @@ I am healed a little bit but still have burnout, and I think I have a plan — I
 #### 💬 Ask me about ...
 
 - **The profile image?**: Raiden Ei.
-- **stRE:ashesING?**: the meaning is "ashes string re-arrange version".
-- **A1デン永**
-- **need help?**: If you have some basic problem in data science. I wish I can help you. So I can practice my English skill too.
+- **name and alias**:
+  - **stRE:ashesING?**: the meaning is "ashes string re-arrange version".
+  - **A1デン永**
 - **Why I want to work in UK?**: 
   - see more details(news "ย้ายประเทศกันเถอะ" about facebook group that trending in thailand):
     - [bloomberg](https://www.bloomberg.com/news/articles/2021-05-06/-get-out-of-thailand-campaign-gains-momentum-as-covid-worsens)
