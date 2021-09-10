@@ -23,9 +23,11 @@ I am healed a little bit but still have burnout, and I think I have a plan — I
 #### 🧀/Interests
 
 - Visualisation
+  - Python, coding rather using tools
+- Data Science
 - Climate Science
 - Epidemiology
-- Digital Garden/Evergreen Note
+- Digital Garden/Evergreen Note/Zettelkasten/Roam Research/Obsidian
 
 #### 💬 Ask me about ...
 
