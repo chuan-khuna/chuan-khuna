@@ -29,8 +29,9 @@ I am healed a little bit but still have burnout, and I think I have a plan — I
 
 #### 💬 Ask me about ...
 
-- **The profile image?**: NOT ME, she is Noguchi Iori.
+- **The profile image?**: Raiden Ei.
 - **stRE:ashesING?**: the meaning is "ashes string re-arrange version".
+- **A1デン永**
 - **need help?**: If you have some basic problem in data science. I wish I can help you. So I can practice my English skill too.
 - **Why I want to work in UK?**: 
   - see more details(news "ย้ายประเทศกันเถอะ" about facebook group that trending in thailand):
