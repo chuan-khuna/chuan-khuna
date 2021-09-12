@@ -2,6 +2,8 @@
 
 > "I am just another desultory learner."
 
+> "I need something lead me back on the right track."
+
 #### 🍵/About Me 
 
 Implemented simple machine learning model in a Data Mining course, experienced in climate science from senior project, learnt about Deep Learning from online courses. 
@@ -9,16 +11,6 @@ Implemented simple machine learning model in a Data Mining course, experienced i
 NO WORKING experience but try hard to learn to broaden my knowledge. 
 
 currenly have got burnout or depressed (something like that), because of there is no reward for my learning (in Thailand situation).
-
-#### ⌛/Now
-
-- Learning about characteristics of English accents especially UK accents such as modern RP, Posh and Cockney.  
-- plan to do certificate examination: [Google - Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
-- plan to do IELTS examination (goal: band 6.0+ in academic)
-
-I am healed a little bit but still have burnout, and I think I have a plan — I want to work or study in UK.
-
-> Go beyond ... Plus Ultra!
 
 #### 🧀/Interests
 
