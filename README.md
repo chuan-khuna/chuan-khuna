@@ -10,7 +10,7 @@ Implemented simple machine learning model in a Data Mining course, experienced i
 
 NO WORKING experience but try hard to learn to broaden my knowledge. 
 
-currenly have got burnout or depressed (something like that), because of there is no reward for my learning (in Thailand situation).
+currenly have got burnout or depressed (something like that), because of there is no reward/feedback for my learning (in Thailand situation).
 
 #### 🧀/Interests
 
