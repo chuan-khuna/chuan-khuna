@@ -26,7 +26,7 @@ currenly have got burnout or depressed (something like that), because of there i
 
 - **The profile image?**: Raiden Ei.
 - **name and alias**:
-  - **stRE:ashesING?**: the meaning is "ashes string re-arrange version".
+  - **stRE:ashesING**: the meaning is "ashes string re-arrange version".
   - **A1デン永**
 - **Why I want to work in UK?**: 
   - see more details(news "ย้ายประเทศกันเถอะ" about facebook group that trending in thailand):
