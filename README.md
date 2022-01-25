@@ -4,13 +4,13 @@
 
 > "I need something lead me back on the right track."
 
-#### 🍵/About Me 
+<!-- #### 🍵/About Me 
 
 Implemented simple machine learning model in a Data Mining course, experienced in climate science from senior project, learnt about Deep Learning from online courses. 
 
 NO WORKING experience but try hard to learn to broaden my knowledge. 
 
-currenly have got burnout or depressed (something like that), because of there is no reward/feedback for my learning (in Thailand situation).
+currenly have got burnout or depressed (something like that), because of there is no reward/feedback for my learning (in Thailand situation). -->
 
 #### 🧀/Interests
 
@@ -22,7 +22,7 @@ currenly have got burnout or depressed (something like that), because of there i
 - Digital Garden/Evergreen Note/Zettelkasten/Roam Research/Obsidian
 - British accents (Posh, RP, Cockney) and spelling style (-ise, -our, -ae, -oe, etc.)
 
-#### 💬 Ask me about ...
+<!-- #### 💬 Ask me about ...
 
 - **The profile image?**: Raiden Ei.
 - **name and alias**:
@@ -31,14 +31,15 @@ currenly have got burnout or depressed (something like that), because of there i
 - **Why I want to work in the UK?**: 
   - see more details(news "ย้ายประเทศกันเถอะ" about facebook group that trending in thailand):
     - [bloomberg](https://www.bloomberg.com/news/articles/2021-05-06/-get-out-of-thailand-campaign-gains-momentum-as-covid-worsens)
-    - [thestandard](https://thestandard.co/lets-move-abroad-thai-facebook-group/)
+    - [thestandard](https://thestandard.co/lets-move-abroad-thai-facebook-group/) -->
 
-#### Links
+<!-- #### Links
 - links: https://phattharanat.carrd.co/
 - Digital Garden: https://alicetaria.netlify.app
 - Digital Garden(notion): https://www.notion.so/chuankhunagarden/Home-98e4910543f9431f90e1b2b4b227aa58
 - [Tensorflow Certificate](https://www.credential.net/425e55ab-ed24-446a-a8bc-2c5b80622af2#gs.uidr12)
-
+ -->
+ 
 #### Stats
 
 [![github stats](https://github-readme-stats-chuan-khuna.vercel.app/api?username=chuan-khuna&theme=algolia&count_private=true)](https://github-readme-stats-chuan-khuna.vercel.app/api?username=chuan-khuna&theme=algolia&count_private=true)
