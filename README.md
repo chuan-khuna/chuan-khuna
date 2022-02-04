@@ -1,5 +1,7 @@
 ## Hi, My name is Phattharanat 👋
 
+**status:** Unemployed, Inactive, Burn-out
+
 > "I am just another desultory learner."
 
 > "I need something lead me back on the right track."
@@ -19,8 +21,9 @@ currenly have got burnout or depressed (something like that), because of there i
 - Data Science
 - Climate Science
 - Epidemiology
-- Digital Garden/Evergreen Note/Zettelkasten/Roam Research/Obsidian
+- Digital Garden/Evergreen Note/Zettelkasten/Craft(note-taking app)/Roam Research
 - British accents (Posh, RP, Cockney) and spelling style (-ise, -our, -ae, -oe, etc.)
+- Colemak DHm and Manoonchai layout
 
 <!-- #### 💬 Ask me about ...
 
