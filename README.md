@@ -20,7 +20,6 @@ currenly have got burnout or depressed (something like that), because of there i
   - Python, coding rather using tools
 - Data Science
 - Climate Science
-- Epidemiology
 - Digital Garden/Evergreen Note/Zettelkasten/Craft(note-taking app)/Roam Research
   - currently interested in supernotes
 - British accents (Posh, RP, Cockney) and spelling style (-ise, -our, -ae, -oe, etc.)
