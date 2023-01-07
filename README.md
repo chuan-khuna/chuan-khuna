@@ -1,18 +1,11 @@
 ## Hi, My name is Phattharanat 👋
 
-**status:** Unemployed, Inactive, Burn-out
+**status:** Burn-out, Planing to do a master degree
 
 > "I am just another desultory learner."
 
 > "I need something lead me back on the right track."
 
-<!-- #### 🍵/About Me 
-
-Implemented simple machine learning model in a Data Mining course, experienced in climate science from senior project, learnt about Deep Learning from online courses. 
-
-NO WORKING experience but try hard to learn to broaden my knowledge. 
-
-currenly have got burnout or depressed (something like that), because of there is no reward/feedback for my learning (in Thailand situation). -->
 
 #### 🧀/Interests
 
@@ -20,11 +13,13 @@ currenly have got burnout or depressed (something like that), because of there i
   - Python, coding rather using tools
 - Data Science
 - Climate Science
-- Digital Garden/Evergreen Note/Zettelkasten/Craft(note-taking app)/Roam Research
-  - currently interested in supernotes
+- Digital Gardening/Knowledge Management/Zettelkasten
+  - main note-taking app: Craft, Supernotes
+  - flashcard: Mochi
+  - interests: Tana
 - British accents (Posh, RP, Cockney) and spelling style (-ise, -our, -ae, -oe, etc.)
 - Colemak DHm and Manoonchai layout
-
+ 
 <!-- #### 💬 Ask me about ...
 
 - **The profile image?**: Raiden Ei.
