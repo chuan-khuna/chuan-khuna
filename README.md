@@ -2,9 +2,10 @@
 
 **status:** Burn-out, Planing to do a master degree
 
+<!-- 
 > "I am just another desultory learner."
 
-> "I need something lead me back on the right track."
+> "I need something lead me back on the right track." -->
 
 
 #### 🧀/Interests
