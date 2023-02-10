@@ -18,6 +18,8 @@
   - interests: Tana
 - British accents (Posh, RP, Cockney) and spelling style (-ise, -our, -ae, -oe, etc.)
 - Colemak DHm and Manoonchai layout
+
+Current Interests: Spark, Kafka, Kubernetes, Distributed-things
  
 <!-- #### 💬 Ask me about ...
 
