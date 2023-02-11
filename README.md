@@ -6,7 +6,7 @@
 > "I have an avid interest in data science and data visualisation"
 
 
-#### 🧀/Interests
+### 🧀/Interests
 
 - Visualisation
   - Python, coding rather using tools
@@ -19,7 +19,7 @@
 - British accents (Posh, RP, Cockney) and spelling style (-ise, -our, -ae, -oe, etc.)
 - Colemak DHm and Manoonchai layout
 
-##### 🧐 Current Interests: `Spark, Kafka, Kubernetes, Distributed-things`
+#### 🧐 Current Interests: `Spark, Kafka, Kubernetes, Distributed-things`
  
 <!-- #### 💬 Ask me about ...
 
