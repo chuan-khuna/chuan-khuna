@@ -19,8 +19,11 @@
 - British accents (Posh, RP, Cockney) and spelling style (-ise, -our, -ae, -oe, etc.)
 - Colemak DHm and Manoonchai layout
 
-#### 🧐 Current Interests: `Spark, Kafka, Kubernetes, Distributed-things, colour palette, data visualisation style guide`
- 
+#### 🧐 Current Interests: 
+- colour palette, data visualisation style guide
+- Spark, Kafka, Kubernetes, Distributed-things
+
+
 <!-- #### 💬 Ask me about ...
 
 - **The profile image?**: Raiden Ei.
