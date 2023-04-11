@@ -6,20 +6,20 @@
 > "I have an avid interest in data science and data visualisation"
 
 
-### 🧀/Interests
+### Interests
 
 - Visualisation
   - Python, coding rather using tools
 - Data Science
 - Climate Science
 - Digital Gardening/Knowledge Management/Zettelkasten
-  - main note-taking app: Craft, Supernotes
+  - main note-taking app: Craft, Logseq, Obsidian
   - flashcard: Mochi
   - interests: Tana
 - British accents (Posh, RP, Cockney) and spelling style (-ise, -our, -ae, -oe, etc.)
-- Colemak DHm and Manoonchai layout
 
-#### 🧐 Current Interests: 
+
+#### Current Interests: 
 - colour palette, data visualisation style guide
 - Spark, Kafka, Kubernetes, Distributed-things
 
@@ -40,7 +40,10 @@
 - Digital Garden: https://alicetaria.netlify.app
 - Digital Garden(notion): https://www.notion.so/chuankhunagarden/Home-98e4910543f9431f90e1b2b4b227aa58
 - [Tensorflow Certificate](https://www.credential.net/425e55ab-ed24-446a-a8bc-2c5b80622af2#gs.uidr12)
- -->
+
+- Colemak DHm and Manoonchai layout
+
+-->
  
 #### Stats
 
