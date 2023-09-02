@@ -1,6 +1,6 @@
 ## Hi, My name is Phattharanat 👋
 
-**status:** Burn-out, Planing to do a master degree
+**status:** Burn-out, Planing to do a master's degree
 
 
 > "I have an avid interest in data science and data visualisation"
@@ -9,19 +9,20 @@
 ### Interests
 
 - Visualisation
-  - Python, coding rather using tools
+  - Python, coding rather than using tools
 - Data Science
 - Climate Science
 - Digital Gardening/Knowledge Management/Zettelkasten
   - main note-taking app: Craft, Logseq, Obsidian
-  - flashcard: Mochi
-  - interests: Tana
+  - Flashcard: Mochi
+  - Interests: Tana
 - British accents (Posh, RP, Cockney) and spelling style (-ise, -our, -ae, -oe, etc.)
 
 
 #### Current Interests: 
 - colour palette, data visualisation style guide
 - Spark, Kafka, Kubernetes, Distributed-things
+- Haskell
 
 
 <!-- #### 💬 Ask me about ...
