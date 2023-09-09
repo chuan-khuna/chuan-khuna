@@ -1,6 +1,6 @@
 ## Hi, My name is Phattharanat 👋
 
-**status:** Burn-out, Planing to do a master's degree
+**status:** Planing to do a master's degree
 
 
 > "I have an avid interest in data science and data visualisation"
