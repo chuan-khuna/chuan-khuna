@@ -24,6 +24,10 @@
 - Spark, Kafka, Kubernetes, Distributed-things
 - Haskell
 
+### digital garden
+
+- Data visualisation notes: https://altr-quartz-garden.vercel.app/
+- https://altr-digital-garden.vercel.app/
 
 <!-- #### 💬 Ask me about ...
 
