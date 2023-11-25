@@ -20,9 +20,11 @@
 
 
 #### Current Interests: 
+
 - colour palette, data visualisation style guide
 - Spark, Kafka, Kubernetes, Distributed-things
-- Haskell
+- Haskell (Functional Programming)
+- Rust and Go
 
 ### digital garden
 
