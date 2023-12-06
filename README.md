@@ -13,9 +13,9 @@
 - Data Science
 - Climate Science
 - Digital Gardening/Knowledge Management/Zettelkasten
-  - main note-taking app: Craft, Logseq, Obsidian
+  - main note-taking app: Craft, Logseq, Obsidian, Bear, Heptabase
   - Flashcard: Mochi
-  - Interests: Tana
+  - Interests: Tana, Heptabase
 - British accents (Posh, RP, Cockney) and spelling style (-ise, -our, -ae, -oe, etc.)
 
 
