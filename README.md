@@ -13,7 +13,7 @@
 - Data Science
 - Climate Science
 - Digital Gardening/Knowledge Management/Zettelkasten
-  - main note-taking app: Craft, Logseq, Obsidian, Bear, Heptabase
+  - main note-taking apps: Heptabase, Obsidian, Bear
   - Flashcard: Mochi
   - Interests: Tana, Heptabase
 - British accents (Posh, RP, Cockney) and spelling style (-ise, -our, -ae, -oe, etc.)
@@ -22,9 +22,7 @@
 #### Current Interests: 
 
 - colour palette, data visualisation style guide
-- Spark, Kafka, Kubernetes, Distributed-things
 - Haskell (Functional Programming)
-- Rust and Go
 
 ### digital garden
 
