@@ -1,6 +1,6 @@
 ## Hi, My name is Phattharanat 👋
 
-**status:** Planing to do a master's degree
+**status:** Less active, since I have had Gastritis/Ocular Hypertension/De Quervain's Tenosynovitis/RSI
 
 
 > "I have an avid interest in data science and data visualisation"
@@ -62,7 +62,7 @@
 
 #### 🌱 I’m currently learning/Interested field ...
 
-- Learning English for TOELF ITP/IELTS examination
+- Learning English for TOEFL ITP/IELTS examination
 - Neural Style Transfer
 - NLP
 - GAN
