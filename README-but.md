@@ -2,10 +2,14 @@
 
 Resume but...hospitalisation history
 
+A data scientist who suffers from recurrence of diseases. Created a dashboard for tracking hospitalisation expense.
+Visualised data from Jira and hospitalisation history to figure out what causes gastritis.
+
+
 #### Gastritis (Oct 2023 - Present)
 
 - got EGD, Ultrasound
-- Reoccurrence history
+- history
   - 1st - 19 Oct 2023
   - 2nd - 11 Nov 2023
   - 3rd - 13 Jan 2024, EGD, Ultrasound
@@ -13,10 +17,10 @@ Resume but...hospitalisation history
 
 #### Conjunctivitis (Nov 2023 - Present)
 
-- I am also a Steroid Responder, Steroid induced Ocular Hypertension.
-  - [ref](https://eyewiki.aao.org/Steroid-Induced_Glaucoma)
+- I am also a Steroid Responder, Steroid induced Ocular Hypertension. [ref](https://eyewiki.aao.org/Steroid-Induced_Glaucoma)
+- I started taking photos of my eyes and sending in a Discord channel.
  
-- Reoccurrence history
+- history
   - 1st - 03 Dec 2023, R
   - 2nd - 10 Jan 2024, R
   - 3rd - 02 Apr 2024, L
