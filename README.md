@@ -1,7 +1,5 @@
 ## Hi, My name is Phattharanat 👋
 
-**status:** Less active, since I have Gastritis/Conjunctivitis/Ocular Hypertension/De Quervain's Tenosynovitis/RSI??
-
 
 > "I have an avid interest in data science and data visualisation"
 
