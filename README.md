@@ -20,10 +20,10 @@
 #### Current Interests: 
 
 - Colour palette, data visualisation style guide
-- Haskell (Functional Programming)
-- Split Keyboards: Moonlander, Lily58 pro, Ergodox 76 "Hot Dox"
+- Haskell (Functional Programming) / Lambda Calculus
 
 ### digital garden
 
 - Data visualisation notes: https://altr-quartz-garden.vercel.app/
 - https://altr-digital-garden.vercel.app/
+- WIP - astro garden https://github.com/chuan-khuna/digital-garden-2024
