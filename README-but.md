@@ -19,6 +19,8 @@ Visualised data from Jira and hospitalisation history to figure out what causes 
 
 - I am also a Steroid Responder, Steroid induced Ocular Hypertension. [ref](https://eyewiki.aao.org/Steroid-Induced_Glaucoma)
 - I started taking photos of my eyes and sending in a Discord channel.
+- Ocular Hypertension?
+  - ~19mmHg
  
 - history
   - 1st - 03 Dec 2023, R
