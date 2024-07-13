@@ -30,3 +30,7 @@ Visualised data from Jira and hospitalisation history to figure out what causes 
 - Upgraded from Nuphy Air 75v2 to [ZSA Moonlander](https://www.zsa.io/moonlander) can reduce the occurrence.
 
 #### Rosacea (Apr 2024 - Present)
+
+#### Rt. Shoulder Strain (Jul 2024)
+
+#### Eczema (Jul 2024)
