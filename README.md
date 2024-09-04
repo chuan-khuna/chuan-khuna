@@ -21,6 +21,7 @@
 
 - Colour palette, data visualisation style guide
 - Haskell (Functional Programming) / Lambda Calculus
+- RAG (retrieval-augmented generation)
 
 ### digital garden
 
