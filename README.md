@@ -23,6 +23,10 @@
 - Haskell (Functional Programming) / Lambda Calculus
 - RAG (retrieval-augmented generation)
 
+### Favourite Programming Languages
+
+Python, Haskell
+
 ### digital garden
 
 - Data visualisation notes: https://altr-quartz-garden.vercel.app/
