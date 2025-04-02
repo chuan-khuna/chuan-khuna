@@ -14,12 +14,12 @@
 
 #### Current Interests: 
 
-- Haskell (Functional Programming) / Lambda Calculus
-- RAG (retrieval-augmented generation)
+- Haskell/Elixir/Functional Programming/Lambda Calculus
+- RAG (retrieval-augmented generation)/MCP (Model Context Protocol)
 
 ### Favourite Programming Languages
 
-Python, Haskell
+Python, Haskell, Elixir
 
 ### digital garden
 
