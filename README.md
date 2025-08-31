@@ -3,6 +3,8 @@
 
 > "I have an avid interest in data science and data visualisation"
 
+A programmer who suffers from RSIs (eg De Quervain, Trigger Finger, Tennis Elbow, Wrist Tendonitis).
+
 
 ### Interests
 
