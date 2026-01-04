@@ -25,6 +25,5 @@ Python, Haskell, Elixir
 
 ### digital garden
 
+- altrf.dev/ (WIP: https://github.com/chuan-khuna/digital-garden-2024)
 - Data visualisation notes: https://altr-quartz-garden.vercel.app/
-- https://altr-digital-garden.vercel.app/
-- WIP - astro garden https://github.com/chuan-khuna/digital-garden-2024
