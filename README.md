@@ -23,7 +23,7 @@ A programmer who suffers from Gastritis and RSIs (eg De Quervain, Trigger Finger
 
 Python, Haskell, Elixir
 
-### digital garden
+### Links
 
-- altrf.dev/ (WIP: https://github.com/chuan-khuna/digital-garden-2024)
-- Data visualisation notes: https://altr-quartz-garden.vercel.app/
+- Digital Garden: https://altrf.dev/
+- Nexus: https://nexus.altrf.dev - A fast, static personal link-in-bio page built with Astro
