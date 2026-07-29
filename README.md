@@ -25,5 +25,5 @@ Python, Haskell, Elixir
 
 ### Links
 
-- Digital Garden: https://altrf.dev/
-- Nexus: https://nexus.altrf.dev - A fast, static personal link-in-bio page built with Astro
+- https://altrf.dev - Digital Garden
+- https://nexus.altrf.dev - A fast, static personal link-in-bio page built with Astro
